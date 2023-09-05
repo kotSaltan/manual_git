@@ -12,7 +12,7 @@
 
 ## Branches
 
-* git checkout - Switch branches or restore working tree files
+* git checkout branch_name - Switch to branch_name branch
 * git checkout -b branch_name Create a new branch with branch_name and switch to it
 * git branch - List of branches
 * git branch branch_name - Create a branch with branch_name
