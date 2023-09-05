@@ -17,4 +17,3 @@ git checkout -b branch_name Create a new branch with branch_name and switch to i
 * git branch - List of branches
 * git branch branch_name - Create a branch with branch_name
 * git merge branch_name - Merges branch_name into current branch
-* git checkout -b branch_name Create a new branch and switches to it
