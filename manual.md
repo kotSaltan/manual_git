@@ -6,3 +6,4 @@
 * git commit -a -m "massage" - Shortcut to updating the index with a modified file and creating a new commit with your "massage"
 
 ## Other commands
+* git status - a brief summary of changes
