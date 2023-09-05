@@ -10,8 +10,8 @@
 * git diff - difference between the index file and your working directory; changes that would not be included if you ran "commit" now.
 * git log - Shows a list of commits
 
+## Branches
 
-### Main commands to work with branches
 * git checkout - Switch branches or restore working tree files
 * git branch - List of branches
 * git branch branch_name - Create a branch with branch_name
