@@ -9,3 +9,5 @@
 * git status - a brief summary of changes
 * git diff - difference between the index file and your working directory; changes that would not be included if you ran "commit" now.
 * git log - Shows a list of commits
+
+## Branches
