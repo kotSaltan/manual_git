@@ -11,3 +11,4 @@
 * git log - Shows a list of commits
 
 ## Branches
+* git checkout - Switch branches or restore working tree files
