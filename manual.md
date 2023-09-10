@@ -1,4 +1,11 @@
 # Git manual
+
+## 1. Команды авторизации
+* git config user.name "Your Name" - задаёт имя пользователя;
+* git config user.email "youremail@yourdomain.com" - задаёт email пользователя;
+* git config user.name - выводит имя пользователя;
+* git config user.email - выводит email пользователя.
+
 ## Main commands
 * **git init** - Initialized empty git repository
 * **git add path_to_file** - Update the index with the contents of a new or modified file
