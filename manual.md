@@ -9,14 +9,14 @@
 * **git status** - a brief summary of changes
 * **git diff** - difference between the index file and your working directory; changes that would not be included if you ran "commit" now.
 * **git log** - Shows a list of commits
-* **git log -- graph** Visual graph of log to show changes and branches, how they merge
+* **git log -- graph** - Visual graph of log to show changes and branches, how they merge
 
 ## Branches
 
 * **git branch** - List of branches
 * **git branch branch_name** - Create a branch with branch_name
 *  **git checkout branch_name** - Switch to branch_name branch
-* **git checkout -b branch_name** Create a new branch with branch_name and switch to it
+* **git checkout -b branch_name** - Create a new branch with branch_name and switch to it
 * **git merge branch_name** - Merges branch_name into current branch
 * **git branch -d branch_name** - Delete branch with branch_name
 
