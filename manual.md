@@ -26,6 +26,7 @@
 * **git checkout -b branch_name** - Create a new branch with branch_name and switch to it
 * **git merge branch_name** - Merges branch_name into current branch
 * **git branch -d branch_name** - Delete branch with branch_name
+* git branch -M main - переименовывает текущую ветку в ветку "main".
 
 ## Markdown instructions
 
